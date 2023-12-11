@@ -1,4 +1,4 @@
-libfile-find-rule-perl (0.34-3pexip1) pexip; urgency=medium
+libfile-find-rule-perl (0.34-3pexip1) pexip-bookworm; urgency=medium
 
   * Prepare Pexip packaging
 
