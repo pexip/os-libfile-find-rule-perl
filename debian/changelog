@@ -1,3 +1,16 @@
+libfile-find-rule-perl (0.34-4~deb12u1+pexip24u1) pexip; urgency=medium
+
+  * New upstream release with security update.
+
+ -- Steve McIntyre <93sam@debian.org>  Mon, 09 Jun 2025 14:24:10 +0100
+
+libfile-find-rule-perl (0.34-4) unstable; urgency=high
+
+  * Team upload.
+  * Fix for CVE-2011-10007: Use 3 arg open in grep() (Closes: #1107311)
+
+ -- Salvatore Bonaccorso <carnil@debian.org>  Thu, 05 Jun 2025 14:26:45 +0200
+
 libfile-find-rule-perl (0.34-3+pexip24u2) pexip-bookworm; urgency=medium
 
   * New versioning scheme
