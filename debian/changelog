@@ -1,3 +1,9 @@
+libfile-find-rule-perl (0.34-4+pexip25u1) pexip-trixie; urgency=medium
+
+  * New upstream release
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 31 Jul 2025 13:27:45 +0100
+
 libfile-find-rule-perl (0.34-4) unstable; urgency=high
 
   * Team upload.
