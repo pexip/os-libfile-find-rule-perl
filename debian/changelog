@@ -1,3 +1,10 @@
+libfile-find-rule-perl (0.34-4) unstable; urgency=high
+
+  * Team upload.
+  * Fix for CVE-2011-10007: Use 3 arg open in grep() (Closes: #1107311)
+
+ -- Salvatore Bonaccorso <carnil@debian.org>  Thu, 05 Jun 2025 14:26:45 +0200
+
 libfile-find-rule-perl (0.34-3+pexip25u1) pexip-trixie; urgency=medium
 
   * Initial trixie build
